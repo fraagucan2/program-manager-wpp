@@ -1,1 +1,5 @@
 language: php
+
+env:
+- WP_VERSION=latest WP_MULTISITE=0
+- WP_VERSION=nightly WP_MULTISITE=0
