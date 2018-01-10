@@ -1,6 +1,6 @@
 <?php
  
-namespace App\Tests;
+
  
 class FirstTest extends \PHPUnit_Framework_TestCase
 {
